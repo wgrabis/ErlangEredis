@@ -1,1 +1,1 @@
-erl -pa ./ebin ./deps/eredis/ebin
+erl -pa ./ebin -pa ./deps/*/ebin
